@@ -20,6 +20,15 @@ nav{
     justify-content: space-between;
     background-color: #2C2D2F;
 }
+.nav-links{}
+.nav-users-options{
+    width: 200px;
+    min-width: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
 header{
     font-size: 20px;
     color: black;
